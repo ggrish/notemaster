@@ -1,0 +1,25 @@
+body {
+  margin: 0 auto;
+  font-size: 26px;
+}
+
+h2 {
+  margin-left: 20px;
+}
+
+.form {
+  margin: 5px 5px;
+  margin-left: 20px;
+  width: 60%;
+  padding: 10px 5px;
+  border: 1px solid grey;
+}
+
+.form-control {
+  float: right;
+}
+
+.note {
+  margin: 5px 5px;
+  border: 1px solid grey;
+}
